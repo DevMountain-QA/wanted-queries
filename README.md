@@ -2,7 +2,7 @@
 
 # Wanted Queries
 
-This protect is to create a web form that will generate the text as if to submit to the NCIC to add, edit, or delete a warrant.
+This project is to create a web form that will generate the text as if to submit to the NCIC to add, edit, or delete a warrant.
 
 It is assumed that if incorrect entry occurs, the proper error message will be displayed to assist the user in correcting their mistakes.
 
